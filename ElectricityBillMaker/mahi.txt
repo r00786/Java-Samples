@@ -1,0 +1,10 @@
+mahi
+
+Electrity Bill For Month: october
+
+Prev Reading: 0
+
+New Reading: 73
+
+Total Bill : 511 Rs.
+

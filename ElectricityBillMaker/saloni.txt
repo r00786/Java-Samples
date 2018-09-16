@@ -1,0 +1,10 @@
+saloni
+
+Electrity Bill For Month: october
+
+Prev Reading: 1367
+
+New Reading: 1505
+
+Total Bill : 966 Rs.
+

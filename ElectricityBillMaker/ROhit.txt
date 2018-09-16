@@ -1,0 +1,10 @@
+ROhit
+
+Electrity Bill For Month: December
+
+Prev Reading: 1019
+
+New Reading: 1025
+
+Total Bill : 42 Rs.
+
