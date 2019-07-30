@@ -43,7 +43,7 @@ uploadArchives {
                     if (!xmlOptional) {
                         xmlOptional = xmlDep.appendNode('optional')
                     }
-                    xmlOptional.value = 'true';
+                    xmlOptional.value = 'true'
                 }
             }
         }
